@@ -1,20 +1,19 @@
-Aurora [![Build Status](https://travis-ci.org/Gethe/Aurora.svg?branch=master)](https://travis-ci.org/Gethe/Aurora)
-======
+# Aurora
 
-** THIS VERSION OF AURORA IS A NOT FEATURE COMPLETE FOR TWW. MANY FEATURES ARE DISABLED/NOT SKINNED **
+Aurora is a World of Warcraft addon that restyles the default Blizzard interface to a clean, minimalistic theme consistent across the entire UI.
 
-Aurora is an addon that restyles the default Blizzard interface to a clean, minimalistic theme that is consistent across the entire UI.
+A single accent color — matching your class or a custom choice — is used for highlights and emphasis throughout every window and frame.
 
-A lot of time has been spent on not only basic development and updates, but also refining and perfecting the appearance of each window and every frame.
+Fork of [Gethe/Aurora](https://github.com/Gethe/Aurora), maintained by LiQiuDgg for WoW Retail (Midnight 12.0+).
 
-A single color that matches your current class or is a color of your choosing is used for highlights and emphasis.
+## Install
 
-Options
--------
+Download the latest release from the [Releases](https://github.com/UnstableGuild/Aurora/releases) page and extract to your `Interface/AddOns/` folder.
 
-Open the Aurora options from the in-game addon options, or type /aurora.
+## Usage
 
-Bug reports
------------
+Open Aurora options from the in-game addon settings, or type `/aurora`.
 
-Please report all issues on [GitHub](https://github.com/Gethe/Aurora).
+## Bug Reports
+
+Please report issues on [GitHub Issues](https://github.com/UnstableGuild/Aurora/issues).

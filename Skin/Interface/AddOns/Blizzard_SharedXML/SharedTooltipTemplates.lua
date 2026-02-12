@@ -33,6 +33,7 @@ do --[[ FrameXML\SharedTooltipTemplates.xml ]]
     end
 
     function Skin.TooltipBackdropTemplate(Frame)
+        if not Frame.NineSlice then return end
         if Frame.debug then
             Frame.NineSlice.debug = Frame.debug
         end

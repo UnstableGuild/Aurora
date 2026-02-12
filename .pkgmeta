@@ -1,10 +1,4 @@
 package-as: Aurora
 
 ignore:
-    - *.sublime*
-    - *.bat
-    - dev
-
-manual-changelog:
-  filename: CHANGELOG.md
-  markup-type: markdown
+    - .pre-commit-config.yaml

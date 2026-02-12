@@ -1,6 +1,2 @@
-.release
-.wiki
-*.ini
-
-## Sublime Text ##
-*.sublime-workspace
+.release/
+.pre-commit-config.yaml
